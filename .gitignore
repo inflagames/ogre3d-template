@@ -1,0 +1,7 @@
+# build data
+cmake-build-debug
+ogre
+build
+
+# IDEs
+.idea
