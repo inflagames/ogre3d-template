@@ -22,6 +22,10 @@ Using the following script, the ogre project is automatically cloned, and instal
 
 > NOTE: First the build should be executed
 
+## License
+
+[Apache 2.0](./LICENSE.md)
+
 # Contributions
 
 All contributions are welcome.
