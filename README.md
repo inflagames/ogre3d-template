@@ -14,6 +14,12 @@ Using the following script, the ogre project is automatically cloned, and instal
 ./scripts/build.sh
 ```
 
+**Build project inside docker**
+
+```
+docker run -it -v /home/guille/CLionProjects/template:/app ggjnez92/ogre-ubuntu21:13.1.1 bash -c "cd /app && ./scripts/build.sh"
+```
+
 ## Start project
 
 ```
